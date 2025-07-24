@@ -1,0 +1,5 @@
+# Этот проект использует стандартную библиотеку Python (tkinter).
+# Убедитесь, что tkinter установлен в вашей системе:
+# sudo pacman -S tk
+# Для работы с AUR также требуется yay:
+# https://github.com/Jguer/yay
